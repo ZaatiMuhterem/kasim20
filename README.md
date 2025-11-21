@@ -1,4 +1,8 @@
-<img src="assets/screenshot1.png" alt="Ana Sayfa Screenshot">
+
+<p float="left">
+  <img src="assets/screenshot1.png" width="250" />
+  <img src="assets/screenshot2.png" width="250" />
+</p>
 
 
 # KUR DÖNÜŞTÜRÜCÜ FLUTTER UYGULAMASI
